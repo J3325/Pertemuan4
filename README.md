@@ -27,3 +27,4 @@ Kelas abstrak mendefinisikan metode abstrak `luas()` dan `keliling()`
 ![gambar](tugas5/5.png)
 ### Output
 ![gambar](tugas5/o.png)
+---
